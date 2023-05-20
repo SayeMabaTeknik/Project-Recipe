@@ -1,0 +1,12 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.judul-utama{
+    text-align: center;
+    font-size: 50px;
+}
+
+.recipes-list{
+    font-size: 20px;
+}
